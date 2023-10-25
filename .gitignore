@@ -1,0 +1,8 @@
+
+*.bak
+
+myenv
+venv
+
+*.req
+*.json
