@@ -1,5 +1,7 @@
 # Tiktok Delete Video Script
-This script allows users to automate the process of deleting videos from TikTok by providing the video ID and a couple other values. (since TikTok doesn't provide an API for deleting videos weirdly enough). You can use this script as if it were an TikTok delete API by calling this script from your main file and passing in the necessary parameters.
+This script allows users to automate the process of deleting videos from TikTok by providing the video ID and a couple other values. (since TikTok doesn't provide an API for deleting videos weirdly enough). 
+
+You can use this script as if it were an TikTok delete API by calling this script from your main file and passing in the necessary parameters.
 
 ## Configuration
 Before running the script, you need to set up the configuration file config.ini which contains the necessary cookies and headers required for the script to function. The configuration file has the following sections:
