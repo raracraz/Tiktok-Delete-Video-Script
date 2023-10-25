@@ -8,6 +8,19 @@ cookie: This section contains the sessionid, csrf_session_id, and username cooki
 header: This section contains the x-secsdk-csrf-token header.
 tiktok: This section contains the videoid which is the ID of the video you want to delete.
 
+```
+[cookie]
+sessionid = 
+csrf_session_id = 
+username = 
+
+[header]
+x-secsdk-csrf-token = 
+
+[tiktok]
+videoid = 
+```
+
 ## Requirements
 The script has a few dependencies which are listed in the requirements.txt file. You can install these dependencies using pip:
 ```
